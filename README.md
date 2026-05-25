@@ -15,8 +15,8 @@ Desarrollador de Aplicaciones Web centrado en la creación de arquitecturas esca
 * **Red de Directorios MVNO (Asia, LatAm, Africa, MENA):** Desarrollo e implementación de lógica backend estructurada mediante campos personalizados avanzados (ACF) y despliegue de mapas interactivos dinámicos para el mapeo global de operadores de telecomunicaciones. 
 
 #### 🔗 Contacto y Verificación
-* [Perfil de LinkedIn]([https://www.linkedin.com/in/andres-martinez-dev](https://www.linkedin.com/in/andres-mart%C3%ADnez-dev))
-* [EduConect (Entorno de Producción)]()
+* [Perfil de LinkedIn](www.linkedin.com/in/andres-martínez-dev)
+* [EduConect (Entorno de Producción)](https://educonect-app.web.app/)
 * [MVNO-Asia](https://mvno-asia.com/)
 * [MVNO-Africa](https://mvno-africa.com/)
 * [MVNO-Latam](https://mvno-latam.com/)
