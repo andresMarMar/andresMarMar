@@ -1,16 +1,23 @@
-## Hi there 👋
+### Andrés Martínez | Full-Stack Web Developer
 
-<!--
-**andresMarMar/andresMarMar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🟢 **Actualmente en búsqueda activa de empleo / Abierto a oportunidades**
 
-Here are some ideas to get you started:
+Desarrollador de Aplicaciones Web centrado en la creación de arquitecturas escalables, lógica backend y despliegue de infraestructura web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💻 Stack Tecnológico
+* **Backend:** PHP, Symfony
+* **Frontend:** React, JavaScript
+* **Infraestructura y Cloud:** Docker, Firebase, Alwaysdata
+* **CMS y Modelado de Datos:** WordPress, Advanced Custom Fields (ACF), MySQL
+
+#### 🚀 Infraestructura en Producción
+* **EduConect:** Ecosistema B2B para la gestión operativa en el sector educativo. Orquestación del ciclo de vida asistida por IA (Google Antigravity). Arquitectura híbrida implementada con backend gestionado en Alwaysdata y consumo de servicios frontend en Firebase.
+* **Red de Directorios MVNO (Asia, LatAm, Africa, MENA):** Desarrollo e implementación de lógica backend estructurada mediante campos personalizados avanzados (ACF) y despliegue de mapas interactivos dinámicos para el mapeo global de operadores de telecomunicaciones. 
+
+#### 🔗 Contacto y Verificación
+* [Perfil de LinkedIn](https://www.linkedin.com/in/andres-martinez-dev)
+* [EduConect (Entorno de Producción)](https://educonect-app.web.app/)
+* [MVNO-Asia](https://mvno-asia.com/)
+* [MVNO-Africa](https://mvno-africa.com/)
+* [MVNO-Latam](https://mvno-latam.com/)
+* [MVNO-Mena](https://mvno-mena.com/)
