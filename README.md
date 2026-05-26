@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andresMarMar/andresMarMar/main/banner-andres.png" alt="Banner Andrés Martínez" width="100%" />
-  <h2>Andrés Martínez Martínez | Full-Stack Web Developer</h2>
-  </div>
+  <h2>Andrés Martínez | Full-Stack Web Developer</h2>
+  <p>Centrado en la creación de arquitecturas escalables y despliegue de infraestructura</p>
+</div>
 
 ---
 
